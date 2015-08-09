@@ -15,6 +15,12 @@ Usage :
 2.) Every client entered data via a form based on which results were shown to him.
 
 
+--------------
+
+Note :
+
+This is a dummy database excact project description details can be discussed but not shared on accounts of Copyright issues. :)
+
 ------------
 
 Coded By Krit Karan Singh 
