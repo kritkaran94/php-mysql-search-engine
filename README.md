@@ -19,7 +19,11 @@ Usage :
 
 Note :
 
-This is a dummy database excact project description details can be discussed but not shared on accounts of Copyright issues. :)
+1.) This is a dummy database.
+
+2.) Excact project description details can be discussed but not shared on accounts of Copyright issues. 
+
+                                      :)
 
 ------------
 
